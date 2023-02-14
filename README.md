@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mel3kings/mel3kings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 How to reach me 📫
+
+[![LinkedIn][3]][4] [![StackOverflow][5]][6]
+
+[3]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[4]:  https://www.linkedin.com/in/melchor-tatlonghari "My LinkedIn Profile"
+[5]:  https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[6]:  https://stackoverflow.com/users/2023728/mel3kings "My StackOverflow Profile"
