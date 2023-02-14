@@ -12,4 +12,4 @@
 [8]:  https://www.credly.com/users/melchor-tatlonghari/badges "Credly Badges"
 [9]:  https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=google-home&logoColor=white
 [10]: https://medium.com/@meltatlonghari3 "Medium"
-****
+
