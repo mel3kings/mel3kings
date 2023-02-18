@@ -3,7 +3,7 @@
 [![Home Page][1]][2] [![LinkedIn][3]][4] [![StackOverflow][5]][6] [![Credly][7]][8] [![medium][9]][10] 
 
 [1]:  https://img.shields.io/badge/home-4285F4?style=for-the-badge&logo=google-home&logoColor=white
-[2]:  https://melchortatlonghari.com "Personal Web"
+[2]:  https://www.melchortatlonghari.com "Personal Web"
 [3]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [4]:  https://www.linkedin.com/in/melchor-tatlonghari "LinkedIn Profile"
 [5]:  https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
