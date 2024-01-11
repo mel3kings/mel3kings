@@ -11,6 +11,6 @@
 [7]:  https://img.shields.io/badge/credly-005850?style=for-the-badge&logo=credly&logoColor=white
 [8]:  https://www.credly.com/users/melchor-tatlonghari/badges "Credly Badges"
 [9]:  https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=google-home&logoColor=white
-[10]: https://medium.com/@meltatlonghari3 "Medium"
+[10]: https://medium.com/@meltatlonghari "Medium"
 [11]: https://img.shields.io/badge/twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white
-[12]: https://twitter.com/meltatlonghari3
+[12]: https://twitter.com/meltatlonghari
