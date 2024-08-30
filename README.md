@@ -1,6 +1,6 @@
 ### 0.0.0.0  📫
 
-[![Home Page][1]][2] [![LinkedIn][3]][4] [![StackOverflow][5]][6] [![Credly][7]][8] [![medium][9]][10] [![twitter][11]][12] 
+[![Home Page][1]][2] [![LinkedIn][3]][4] [![StackOverflow][5]][6] [![Credly][7]][8] [![medium][9]][10] [![twitter][11]][12] [![golden-visa][13]][14] [![digital-agency][15]][16] 
 
 [1]:  https://img.shields.io/badge/home-6005F4?style=for-the-badge&logo=google-home&logoColor=white
 [2]:  https://www.melchortatlonghari.com "Personal Web"
@@ -14,3 +14,7 @@
 [10]: https://medium.com/@meltatlonghari "Medium"
 [11]: https://img.shields.io/badge/twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white
 [12]: https://twitter.com/meltatlonghari
+[13]: https://img.shields.io/badge/golden%20visa%20book-ca8a04?style=for-the-badge&logo=bookstack&logoColor=white
+[14]: https://goldenvisa.melchortatlonghari.com
+[15]: https://img.shields.io/badge/digital%20agency-9333ea?style=for-the-badge&logo=firefox&logoColor=white
+[16]: https://segundoapps.com/digital-agency
