@@ -16,7 +16,7 @@
 [12]: https://twitter.com/meltatlonghari
 [13]: https://img.shields.io/badge/golden%20visa%20book-ca8a04?style=for-the-badge&logo=bookstack&logoColor=white
 [14]: https://goldenvisa.melchortatlonghari.com
-[15]: https://img.shields.io/badge/digital%20agency-9333ea?style=for-the-badge&logo=firefox&logoColor=white
+[15]: https://img.shields.io/badge/Game%20Studio-9333ea?style=for-the-badge&logo=firefox&logoColor=white
 [16]: https://store.steampowered.com/developer/aeyandmelgaming
 [17]: https://img.shields.io/badge/aey%20and%20mel-dc2626?style=for-the-badge&logo=youtube&logoColor=white
 [18]: https://www.youtube.com/@aeyandmel
